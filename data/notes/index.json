@@ -1,0 +1,21 @@
+[
+  {
+    "id": "example-note",
+    "title": "示例笔记",
+    "category": "示例",
+    "summary": "这是一篇示例笔记，展示如何使用 Markdown 编写笔记。",
+    "file": "example-note.md",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "vue",
+    "title": "vue3",
+    "category": "示例",
+    "summary": "vue3所有知识点。",
+    "file": "vue.md",
+    "createdAt": "2024-12-17T11:17:00.000Z",
+    "updatedAt": "2024-12-17T11:17:00.000Z"
+  }
+]
+

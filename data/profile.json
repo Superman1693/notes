@@ -1,0 +1,15 @@
+{
+  "name": "你的名字",
+  "title": "前端开发者",
+  "email": "your.email@example.com",
+  "github": "https://github.com/yourusername",
+  "bio": "这是一段个人简介，你可以在这里介绍自己的学习经历、技能和兴趣爱好。",
+  "skills": ["Vue.js", "JavaScript", "HTML", "CSS", "TypeScript"],
+  "experience": [
+    {
+      "title": "项目经验示例",
+      "description": "描述你的项目经验..."
+    }
+  ]
+}
+
